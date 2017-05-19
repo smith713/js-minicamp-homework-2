@@ -1,0 +1,29 @@
+* for loop - allows you to repeat code and iterate through an array unitl a   certain condition is met.
+* && (AND) - conditions on the left and right must be true to evaluate to true.
+      false && false | false
+      ----------------------
+      false && true  | false
+      ----------------------
+      true  && false | false
+      ----------------------
+      true  && true  | true
+
+* || (OR) - either conditon on the left or right must be true to evaluate to true.
+      false || false | false
+      ----------------------
+      false || true  | true
+      ----------------------
+      true  || false | true
+      ----------------------
+      true  || true  | true
+
+* ! (NOT) - reverses the value
+      !false | true
+      --------------
+      !true  | false
+
+* Array - allows you to group strings together
+
+* git - version control system (adds a structure system to allow people to work on   the same file without conflict.
+
+* GitHub - allows code to be stored in the cloud (teams can collobrate from   diffterent locations).
